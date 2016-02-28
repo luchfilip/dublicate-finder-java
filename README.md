@@ -27,7 +27,7 @@ using a poor hashing algorithm, then you'll see collisions even when the items /
 ####Solution
 A GUI Java Application was implemented in order to find dublicate files in same folder using MD5 hashes.
 
-![](http://i.imgur.com/E8OvmBa.gifv)
+![](http://i.imgur.com/E8OvmBa.gif)
 
 ####MD5 Checksum
 
